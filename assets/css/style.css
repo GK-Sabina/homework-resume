@@ -1,0 +1,52 @@
+body{
+    color: gray;
+    margin: 0 50px;
+}
+.avatar{
+    margin-top: 10px;
+    text-align: center; 
+}
+.avatar img{
+    width: 150px;
+    border-radius: 50%;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 55px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.contacts{
+    text-align: center;
+}
+.contacts a{
+    color: darkgrey;
+    text-decoration: none;
+}
+.contacts span{
+    border-right: 1px grey solid;
+    margin-right: 7px;
+    margin-left: 5px;
+}
+.job-title{
+    font-weight: 500;
+    color: gray;
+}
+h2{
+   color: black;
+   border-top: 3px gray solid; 
+   border-bottom: 1px gray solid;
+   padding-top: 7px;
+   padding-bottom: 7px;
+}
+.highlight{
+    color: black;
+}
+h3{
+    color: black;
+    font-size: 1em;
+}
+.company{
+    font-size: 1.2em;
+}
